@@ -1,1 +1,2 @@
+komentar
 print("Hello 2026!!55?")
